@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "esbuild": "^0.16.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind": "^4.0.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
